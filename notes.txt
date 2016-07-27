@@ -1,0 +1,52 @@
+<p>A social itinerary application that allows users to create, edit, and share itineraries with friends. Created using Ruby on Rails.</p>
+
+                <p>E-commerce platform for boutique vinyl record store. Created using LAMP stack.</p>
+                <p>Simple application that documents users' bucket list items. Created using MEAN stack.</p>
+
+
+<h4>Skills</h4>
+<div class="col s12 m4 l4">
+<div class="row"><img src="images/mean.jpg" alt="mean-stack-logo"></div>
+  <div class="row"><img src="images/ror.jpg" alt="ror-logo"></div>
+  <div class="row"><img src="images/lamp.jpg" alt="lamp-stack-logo"></div>
+</div>
+<div class="col s12 m8 l8">
+    <div class="col s4"><img src="images/html5.png" alt="html5"></div>
+    <div class="col s4"><img src="images/css3.png" alt="css3"></div>
+    <div class="col s3"><img src="images/jquery.png" alt="jquery"></div>
+    <div class="col s3"><img src="images/materialize.png" alt="materialize"></div>
+    <div class="col s3"><img src="images/bootstrap.png" alt="bootstrap"></div>
+    <div class="col s3"><img src="images/aws.png" alt="aws"></div>
+</div>
+
+Front [HTML, CSS]
+-HTML
+-CSS
+-Bootstrap
+-Materialize
+-jQ
+
+Languages & Frameworks [JS, Ruby]
+-JS
+-Angular
+-Ruby
+-Rails
+-PHP
+-CodeIgniter
+
+Back end & Database [mySQL, dbcyinder]
+-MySQL
+-MongoDB
+-postgreSQL
+-Database modeling
+-ERD diagrams
+
+Miscellaneous [github, aws]
+-github
+-aws
+-nginx
+-test driven development
+-wireframes
+-adobe indesign
+-gimp
+
