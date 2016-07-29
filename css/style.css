@@ -164,22 +164,27 @@ footer.page-footer {
   width: 5em;
   display: inline-block;
 }
-#email-icon {
+/*#email-icon {
   width: 80px;
   height: 90px;
 }
 #resume-icon {
   width: 90px;
   height: 80px;
-}
-.contact-icons {
+}*/
+/*.contact-icons-div {
   height: 70px;
-  padding: 10px;
+  width: 70px;
+}*/
+.contact-icons {
+/*  height: 100%;
+  width: 100%;
+  overflow: initial;*/
   vertical-align: middle;
 }
 .contact-div {
   padding: 100px;
-  min-height:700px;
+  /*min-height:700px;*/
 }
 @font-face {
     font-family: ailerons;
@@ -224,4 +229,6 @@ p {
 #contact-me {
   color: #009688;
 }
-
+.contact-row {
+  margin-top: 40px;
+}
