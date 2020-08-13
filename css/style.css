@@ -186,10 +186,7 @@ footer.page-footer {
   padding: 100px;
   /*min-height:700px;*/
 }
-@font-face {
-    font-family: ailerons;
-    src: url('../font/Ailerons/Ailerons-Typeface.otf');
-}
+
 @font-face {
   font-family: gravity-light;
   src: url('../font/gravity/Gravity-Light.otf');
@@ -199,18 +196,24 @@ footer.page-footer {
   src: url('../font/gravity/Gravity-LightItalic.otf');
 }
 #logo {
-  font-family: ailerons;
-  font-size: 50px;  
+  font-family: serif;
+  font-size: 50px;
   margin-bottom: 30px;
   color: #009688;
 }
+h1 {
+  font-family: "Playfair Display";
+  font-size: 100px;
+  font-weight: 900;
+  width: 50%;
+}
 h2, h4 {
-  font-family: ailerons;
-  font-size: 50px;  
+  font-family: "Playfair Display";
+  font-size: 50px;
   margin-bottom: 30px;
 }
 h5 {
-  font-family: ailerons;
+  font-family: "Playfair Display";
   font-size: 40px;
   margin-bottom: 30px;
 }
