@@ -294,7 +294,7 @@ h2{
 /* The ribbons */
 
 .corner-ribbon{
-  width: 200px;
+  width: 400px;
   background: #e43;
   position: absolute;
   top: 25px;
@@ -327,8 +327,8 @@ h2{
 }
 
 .corner-ribbon.top-right{
-  top: 25px;
-  right: -50px;
+  top: 80px;
+  right: -80px;
   left: auto;
   transform: rotate(45deg);
   -webkit-transform: rotate(45deg);
