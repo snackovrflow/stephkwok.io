@@ -377,7 +377,7 @@ h2{
 
 /* browser */
 .browser {
-  margin-top: 20px
+  margin-top: 30px
 }
 
 .browser-inner {
@@ -391,7 +391,7 @@ h2{
   align-items: center;
   justify-content: center;
   width: 100%;
-  height: 30px;
+  height: 20px;
   background-color: rgb(225, 229, 232)
 }
 
