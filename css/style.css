@@ -399,13 +399,8 @@ h2{
   position: absolute;
   left: 0;
   display: flex;
-  width: 6%;
+  width: 100%;
   margin-left: 5px;
-}
-@media only screen and (max-width : 600px) {
-  .browser-tools {
-    width: 15%;
-  }
 }
 
 .tool {
